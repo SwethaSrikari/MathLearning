@@ -1,4 +1,4 @@
-# Math
+# Math behind ML and DS concepts
 Understanding the math used in Data Science and Machine learning using Python
 
 
